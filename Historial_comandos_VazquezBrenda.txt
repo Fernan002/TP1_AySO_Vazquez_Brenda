@@ -178,3 +178,21 @@ sudo apt install tree
 jungkook
 sudo apt install tree
 history -a
+cp ~/.bash_history ./Historial_comandos_VazquezBrenda.txt
+git add .
+git commit -m "ADD: Historial de comandos de VazquezBrenda"
+git push
+git pull
+git push
+git commit -m "ADD: Historial de comandos de Apellido
+git push
+EOF
+LS -L
+ls -l
+cd repogit/
+ls -l
+cd TP1_AySO_Vazquez_Brenda/
+LS -L
+ld -l
+ls -l
+history -a
