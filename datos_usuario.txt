@@ -1,1 +1,4 @@
 Usuario=osboxes
+model name	: AMD Ryzen 7 7730U with Radeon Graphics
+model name	: AMD Ryzen 7 7730U with Radeon Graphics
+model name	: AMD Ryzen 7 7730U with Radeon Graphics
